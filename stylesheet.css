@@ -1,0 +1,27 @@
+body {
+  background-color: #cfcfcf;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+.skills tr:hover {background-color: #D6EEEE;}
+
+.skills tr {
+  border-bottom: 1px solid #ddd;
+}
+
+.Work-experience tr {
+  font-style: normal;
+  font-weight: normal;
+
+}
+.Work-experience tr:hover {
+ background-color: #D6EEEE;
+}
+
+a {
+ color: blue;
+ text-decoration: none;
+}
